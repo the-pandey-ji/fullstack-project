@@ -69,7 +69,13 @@ return (
 			</FooterLink>
 		</Column>
 		</Row>
+        
 	</Container>
+    <h4 style={{color: "white",
+textAlign:"center",
+fontFamily:"initial",
+fontSize:"18px"}}>Made by Sonu pandey
+    </h4>
 	</Box>
 );
 };
