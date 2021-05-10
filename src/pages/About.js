@@ -5,11 +5,9 @@ export default function About() {
     <section className="section about-section">
       <h1 className="section-title">about us</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-        repudiandae architecto qui adipisci in officiis, aperiam sequi atque
-        perferendis eos, autem maiores nisi saepe quisquam hic odio consectetur
-        nobis veritatis quasi explicabo obcaecati doloremque? Placeat ratione
-        hic aspernatur error blanditiis?
+      TheCocktailDB was built in 2021 to provide a free data source api for drinks online
+in the hope that developers would build applications and cool projects ontop of it.
+TheCocktailDB originated on the Kodi forums as a way to browse cocktail recipes on your TV.
       </p>
     </section>
   );
